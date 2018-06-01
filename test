@@ -1,4 +1,5 @@
 #!/bin/bash
+#test message from macbook
 URL1="http://www.teraspectr.ru/administrator"
 URL2="http://www.teraspectr.ru/administrator/index.php"
 URL3="http://www.teraspectr.ru/administrator/index.php?option=com_menus"
