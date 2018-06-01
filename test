@@ -1,0 +1,12 @@
+#!/bin/bash
+URL1="http://www.teraspectr.ru/administrator"
+URL2="http://www.teraspectr.ru/administrator/index.php"
+URL3="http://www.teraspectr.ru/administrator/index.php?option=com_menus"
+AUTH1="Juliam:bj#6CIeyL56X"
+AUTH2="admintuzik:r9YhBdhYS_xF4"
+HEAD1="Authentication Basic=SnVsaWFtOmJqIzZDSWV5TDU2WA=="
+COOK="cookie.txt"
+OUT1="out1.html"
+OUT2="out2.html"
+DPHP="username=admintuzik&passwd=r9YhBdhYS_xF4&lang=&option=com_login&task=login&return=aW5kZXgucGhw&6fd6e18512373062a9290dd3e6eb2418=1OOK"
+curl -L c $COOK -H $HEAD1 $URL1 && curl -L -b $COOK -c $COOK -d $DPHP $URL2 --trace-ascii -

@@ -1,0 +1,80 @@
+administrator after Juliam:
+General
+Request URL: http://teraspectr.ru/administrator/
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 37.140.192.112:80
+Referrer Policy: no-referrer-when-downgrade
+Responce Headers
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Tue, 01 May 2018 10:03:49 GMT
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Tue, 01 May 2018 10:03:49 GMT
+Pragma: no-cache
+Server: nginx
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.30
+Request Headers
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Authorization: Basic SnVsaWFtOmJqIzZDSWV5TDU2WA==
+Cache-Control: max-age=0
+Connection: keep-alive
+Cookie: 9f256990b75f0945fb060c9644e35a34=9e6be9ce10e3dfb06d8f0240529bfea2
+Host: teraspectr.ru
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+after admintuzik index.php(POST)
+General
+Request URL: http://teraspectr.ru/administrator/index.php
+Request Method: POST
+Status Code: 303 See other
+Remote Address: 37.140.192.112:80
+Referrer Policy: no-referrer-when-downgrade
+Responce Headers
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Date: Tue, 01 May 2018 10:07:08 GMT
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Tue, 01 May 2018 10:07:08 GMT
+Location: http://teraspectr.ru/administrator/index.php
+Pragma: no-cache
+Server: nginx
+Set-Cookie: 9f256990b75f0945fb060c9644e35a34=a945e37ae1c56d0e4b674ed5a61af886; path=/; HttpOnly
+X-Powered-By: PHP/5.6.30
+Request Headers
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Authorization: Basic SnVsaWFtOmJqIzZDSWV5TDU2WA==
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 129
+Content-Type: application/x-www-form-urlencoded
+Cookie: 9f256990b75f0945fb060c9644e35a34=9e6be9ce10e3dfb06d8f0240529bfea2
+Host: teraspectr.ru
+Origin: http://teraspectr.ru
+Referer: http://teraspectr.ru/administrator/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+Form Data
+username: admintuzik
+passwd: r9YhBdhYS_xF4
+lang: 
+option: com_login
+task: login
+return: aW5kZXgucGhw
+973565dd75b887b402b76430bcbb1a33: 1
+FormData:username=admintuzik&passwd=r9YhBdhYS_xF4&lang=&option=com_login&task=login&return=aW5kZXgucGhw&973565dd75b887b402b76430bcbb1a33=1
+///////////////
+{"username": "admintuzik","passwd": "r9YhBdhYS_xF4","lang":"","option": "com_login","task": "login", "return":"aW5kZXgucGhw","973565dd75b887b402b76430bcbb1a33": "1"
+}
+

@@ -1,0 +1,34 @@
+Сайты
+www.teraspectr.ru
+www.liond.ru
+         Пароль общий:
+Логин: Juliam	
+Пароль: bj#6CIeyL56X
+
+      Пароль к сайтам:
+Логин: admintuzik
+Пароль: r9YhBdhYS_xF4
+
+ftp.teraspectr.ru
+u6834521_tera, 7c8EdH19-#Abl
+ftp.liond.ru
+u6834521_lion, s2X9f2Z9#Abl
+//////////////////////
+Wireshark POST:
+POST /administrator/index.php HTTP/1.1
+Host: teraspectr.ru
+Connection: keep-alive
+Content-Length: 129
+Cache-Control: max-age=0
+Authorization: Basic SnVsaWFtOmJqIzZDSWV5TDU2WA==
+Origin: http://teraspectr.ru
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://teraspectr.ru/administrator/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ym_uid=1522741411478224922; 229f80977e7f77750aa8b3263d26246a=24a3777588a6232800a54cb52bd3ed25; 9f256990b75f0945fb060c9644e35a34=c95836554936e8610089f6eaa80174f6
+
+username=admintuzik&passwd=r9YhBdhYS_xF4&lang=&option=com_login&task=login&return=aW5kZXgucGhw&ab5271c67d9ae7f2f5aa6045938479ea=1
